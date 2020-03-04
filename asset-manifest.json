@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/3train/static/css/main.5413f1b3.chunk.css",
-    "main.js": "/3train/static/js/main.9802e00c.chunk.js",
-    "main.js.map": "/3train/static/js/main.9802e00c.chunk.js.map",
+    "main.css": "/3train/static/css/main.66061845.chunk.css",
+    "main.js": "/3train/static/js/main.f5924c4d.chunk.js",
+    "main.js.map": "/3train/static/js/main.f5924c4d.chunk.js.map",
     "runtime-main.js": "/3train/static/js/runtime-main.5475d16d.js",
     "runtime-main.js.map": "/3train/static/js/runtime-main.5475d16d.js.map",
-    "static/js/2.2888d254.chunk.js": "/3train/static/js/2.2888d254.chunk.js",
-    "static/js/2.2888d254.chunk.js.map": "/3train/static/js/2.2888d254.chunk.js.map",
+    "static/js/2.8361e250.chunk.js": "/3train/static/js/2.8361e250.chunk.js",
+    "static/js/2.8361e250.chunk.js.map": "/3train/static/js/2.8361e250.chunk.js.map",
     "index.html": "/3train/index.html",
-    "precache-manifest.2c8d1ff7f177745098436d477915d6c0.js": "/3train/precache-manifest.2c8d1ff7f177745098436d477915d6c0.js",
+    "precache-manifest.1e0f08311697f076e0d1ba1b9ddfc47b.js": "/3train/precache-manifest.1e0f08311697f076e0d1ba1b9ddfc47b.js",
     "service-worker.js": "/3train/service-worker.js",
-    "static/css/main.5413f1b3.chunk.css.map": "/3train/static/css/main.5413f1b3.chunk.css.map",
-    "static/js/2.2888d254.chunk.js.LICENSE.txt": "/3train/static/js/2.2888d254.chunk.js.LICENSE.txt",
+    "static/css/main.66061845.chunk.css.map": "/3train/static/css/main.66061845.chunk.css.map",
+    "static/js/2.8361e250.chunk.js.LICENSE.txt": "/3train/static/js/2.8361e250.chunk.js.LICENSE.txt",
     "static/media/1ab-confirmation.png": "/3train/static/media/1ab-confirmation.2f35a209.png",
     "static/media/1ab-review.png": "/3train/static/media/1ab-review.418212f3.png",
     "static/media/1c-confirmation.png": "/3train/static/media/1c-confirmation.c09f7846.png",
@@ -28,17 +28,17 @@
     "static/media/3ab-review.png": "/3train/static/media/3ab-review.b328a18c.png",
     "static/media/App.css": "/3train/static/media/GothamSSm-Book.5fd222f7.otf",
     "static/media/confirmation.png": "/3train/static/media/confirmation.5bfea8de.png",
-    "static/media/journeyInfo.png": "/3train/static/media/journeyInfo.98d08560.png",
     "static/media/logo.svg": "/3train/static/media/logo.13d35289.svg",
     "static/media/payment.png": "/3train/static/media/payment.f30d4edb.png",
     "static/media/review-footer.png": "/3train/static/media/review-footer.c2c93743.png",
     "static/media/review.png": "/3train/static/media/review.2cd76d8f.png",
+    "static/media/serviceInfo.png": "/3train/static/media/serviceInfo.98d08560.png",
     "static/media/termsAndConditions.png": "/3train/static/media/termsAndConditions.af017db9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5475d16d.js",
-    "static/js/2.2888d254.chunk.js",
-    "static/css/main.5413f1b3.chunk.css",
-    "static/js/main.9802e00c.chunk.js"
+    "static/js/2.8361e250.chunk.js",
+    "static/css/main.66061845.chunk.css",
+    "static/js/main.f5924c4d.chunk.js"
   ]
 }
